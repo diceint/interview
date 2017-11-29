@@ -1,5 +1,5 @@
 <?php
-   define('DB_SERVER', '127.0.0.1');
+   define('DB_SERVER', '10.244.12.171');
    define('DB_USERNAME', 'root');
    define('DB_PASSWORD', '');
    define('DB_DATABASE', 'phpro_auth');
